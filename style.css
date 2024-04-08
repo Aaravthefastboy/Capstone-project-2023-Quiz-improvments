@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  text-align: center;
+}
+.center{
+  text-align: center;
+  font-family: cursive;
+}
+.span{
+  font-size: 3em;
+  margin-left: 50px;
+}
+.question_font{
+  font-family: gabriola;
+  font-size: 30px;
+  margin-left: 50px;
+}
+.main_button{
+  font-family: cursive;
+  font-size: 70px;
+  text-align: center;
+  border-radius: 14px;
+  background-color: red;
+}
+.answer_button{
+  font-family: cursive;
+  font-size: 50px;
+  text-align: center;
+  border-radius: 14px;
+  background-color: red;
+}
+body{
+  background-image: linear-gradient(to right, orange,  orangered, red);
+}
